@@ -6,6 +6,7 @@ class App extends Component {
 		return (
 			<>
 				<RollDice />
+				<hr />
 			</>
 		);
 	}

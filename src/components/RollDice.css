@@ -1,0 +1,24 @@
+.RollDice {
+	text-align: center;
+}
+
+.RollDice button {
+	background: slateblue;
+	border: none;
+	border-radius: .5rem;
+	color: white;
+	cursor: pointer;
+	display: block;
+	margin: 1rem auto;
+	padding: .5rem 0;
+	transition: filter ease .4s;
+	width: 10rem;
+}
+
+.RollDice button:hover {
+	filter: brightness(1.2);
+}
+
+.RollDice button:disabled {
+	background: slategray;
+}
