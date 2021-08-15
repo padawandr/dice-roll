@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import RollDice from './components/RollDice';
+import RollDiceF from './components/RollDiceF';
 
 class App extends Component {
 	render() {
@@ -7,6 +8,7 @@ class App extends Component {
 			<>
 				<RollDice />
 				<hr />
+				<RollDiceF />
 			</>
 		);
 	}
