@@ -1,5 +1,6 @@
 ## Dice Roll
 ![](https://img.shields.io/github/repo-size/padawandr/dice-roll?style=flat-square)\
+![](https://img.shields.io/badge/react-22272e?style=flat-square&logo=react&logoColor=7fd2ff)
 ![](https://img.shields.io/badge/javascript-22272e?style=flat-square&logo=javascript&logoColor=fff07f)
 ![](https://img.shields.io/badge/css-22272e?style=flat-square&logo=css3&logoColor=7fd2ff)
 ![](https://img.shields.io/badge/html-22272e?style=flat-square&logo=html5&logoColor=ff967f)
